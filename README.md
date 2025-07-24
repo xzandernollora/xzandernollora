@@ -1,4 +1,5 @@
-## 💫 Hi, Im Xzander:
+## 💫 Hi, Im Xzander
+🚀 -- Building apps and learning along the way.
 💻 -- Interested in Mobile / Web Development.<br>
 🎓 -- Studied Information Technology at Lyceum of Alabang.<br>
 🚀 -- Currently learning Flutter, Firebase, and Dart.<br>
