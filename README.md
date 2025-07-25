@@ -20,14 +20,14 @@
 
 ### 🌐 Socials:
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/xzandernollora"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 <a href="https://tiktok.com/@gaushuyt"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white"></a>
 <a href="https://youtube.com/@Gaushuu"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 <a href="mailto:xzanderjamesnollora@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
-
+<br>
 ### 📊 GitHub Stats:
 
 <p align="center">
