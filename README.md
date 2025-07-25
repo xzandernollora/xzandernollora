@@ -2,10 +2,6 @@
   <img src="assets/giffy.gif" alt="Aesthetic Coding GIF" width="1000"/>
 
 
-
-
-<h3 align="center">💫 Hi, I'm Xzander</h3>
-
 🚀 -- Building apps and learning along the way. <br>
 💻 -- Interested in Mobile / Web Development.<br>
 🎓 -- Studied Information Technology at Lyceum of Alabang.<br>
