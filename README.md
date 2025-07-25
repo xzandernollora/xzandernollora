@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3b/5a/df/3b5adf446c8e96379be0281ef70d1c2a.gif" alt="Aesthetic Coding GIF" width="1000"/>
+  <img src="assets/giffy.gif" alt="Aesthetic Coding GIF" width="1000"/>
 
 
 
