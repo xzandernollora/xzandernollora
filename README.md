@@ -21,11 +21,27 @@
 ### 🌐 Socials:
 
 <p align="left">
-<a href="https://linkedin.com/in/xzandernollora"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-<a href="https://tiktok.com/@gaushuyt"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white"></a>
-<a href="https://youtube.com/@Gaushuu"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
-<a href="mailto:xzanderjamesnollora@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <!-- LinkedIn Profile -->
+  <a href="https://linkedin.com/in/xzandernollora" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- TikTok (Static) -->
+  <a href="https://tiktok.com/@gaushuyt" title="Follow me on TikTok">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+  </a>
+
+  <!-- YouTube Channel -->
+  <a href="https://youtube.com/@Gaushuu" title="Watch my YouTube videos">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:xzanderjamesnollora@gmail.com" title="Email me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
 
 <br>
 
@@ -46,7 +62,11 @@
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xzandernollora&icon=0&color=3)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xzandernollora&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/xzandernollora?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
